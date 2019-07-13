@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(233, 227, 227);
+}
+
+.nav-link {
+    opacity: 1;
+}
+h2{
+    margin: 15px 20px 20px 70px;
+    text-align: center;
+}
+#image-home{
+    width: 500px;
+    height: 350px;
+    margin: 20px 50px 20px 400px;
+}
+#texto-home{
+    margin: 15px 20px 20px 70px;
+    text-align: center;
+}
+#img-cata {
+    width: 200px;
+    height: 200px;
+    margin: 20px 15px 20px 200px;
+}
+
+#titulo-cata {
+    margin: 0px 0px 0px 204px;
+}
+
+#texto-cata{
+    margin: 15px 0px 0px 70px;
+}
+
+#img-ju {
+    width: 200px;
+    height: 200px;
+    margin: 20px 15px 20px 200px;
+
+}
+
+#titulo-ju {
+    margin: 0px 0px 0px 240px;
+}
+
+#texto-ju {
+    margin: 10px 20px 0px 40px;
+}
+
+.projetos-texto {
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    flex-direction: row;
+    margin: 10px 10px 10px 30px;
+    border: 1px solid darkblue;
+}
+
+.projetos-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+    margin: 5px 2px 0px 0px;
+}
+
+.projetos-icone{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    flex-direction: row-reverse;
+    margin: 20px 0px 0px 600px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    margin: 80px 20px 0px 0px;
+}
+
+.form-group {
+    margin: 20px 0px 0px 15px;
+}
+
+#titulo-contato {
+    margin: 15px 0px 0px 30px;
+}
+
+#botao-enviar {
+    margin: 20px 0px 0px 16px;
+}
